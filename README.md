@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome to my Github profile
+
+- I’m currently working on finishing my degree
+- All of my university projects are available [here](https://github.com/aqfranco/UniProjects)
+
+## Languages and Tools i use:
+
+
+<p align="middle" style="text-align: center; margin:auto;">
+<img src="https://camo.githubusercontent.com/db84e446514ec8bd72c53aa6ecdcf4d63d149ee6d29978355a9571237521d9f4/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324663646e2e69636f6e73636f75742e636f6d25324669636f6e25324666726565253246706e672d353132253246632d70726f6772616d6d696e672d3536393536342e706e6726663d31266e6f66623d31266970743d623631346334356432336136333334366338616266636563353335373138383066333737356639316564306232646161303137616366376663333232646165302669706f3d696d61676573" alt="C"  width="120" height="120" /> <img src="https://camo.githubusercontent.com/a236655c459df57a34739b8de5cbc5d94d3832fd5cf999da93d8ff4d548ede99/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532466c6f676f6469782e636f6d2532466c6f676f253246313133373934362e706e6726663d31266e6f66623d31266970743d663564376533666131373431303366646234386631653839363664313737306631373331373961386139333335363132356666336134393335306532336338392669706f3d696d61676573" alt="C++" width="100" height="110" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100" height="110" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="110" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="110" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="SQL" width="100" height="110" /> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" width="100" height="110" />
+</p>
 
 <!--
 **aqfranco/aqfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
